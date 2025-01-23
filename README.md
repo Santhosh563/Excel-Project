@@ -20,7 +20,7 @@ The dashboard consists of multiple visualizations to present student engagement 
 History has the highest satisfaction score (~11,599).
 Art has the lowest satisfaction score (~11,003).
 Computer Science, Science, and Math have moderate satisfaction levels.
-Average Attendance:
+###### Average Attendance:
 
 Attendance rates are fairly balanced across all courses, ranging between 74.04% and 74.98%.
 There are no significant variations in attendance between courses.
